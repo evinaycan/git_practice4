@@ -4,6 +4,7 @@ public class Hello {
     public static void main(String[] args) {
 
         System.out.println("Hello world");
+        System.out.println("Batch EU8 learning git and github");
 
 
     }
